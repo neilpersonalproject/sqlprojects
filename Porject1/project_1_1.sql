@@ -1,5 +1,3 @@
--- before doing any exercise, you should explore the data first
-
 -- 1
 select * from actor limit 100;
 select * from film_actor limit 100;
